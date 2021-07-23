@@ -1,0 +1,103 @@
+#webName{
+	color: white;
+	font-size: 45px;
+	font-family: Montserrat Subrayada;
+	font-weight: bold;
+	top: 66px;
+	left: 48px;
+}
+#quote{
+	color: white;
+	font-size: 50px;
+	font-family: Montserrat Subrayada;
+	font-weight: bold;
+	max-width: 422px;
+	max-height: 363px;
+	text-align: right;
+	top: 452px;
+	left: 902px;
+	z-index: 1;
+}
+#homepageBanner{
+	width: 100%;
+	position: relative;
+	object-fit: cover;
+	width: 1567px;
+	height: 927px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+	text-align: center;
+}
+.A1{
+	color: black;
+	font-size: 50px;
+	font-family: Montserrat Subrayada;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
+.cardImgs{
+	height: 258px;
+	border-radius: 20px;
+	width: 400px;
+	object-fit: cover;
+
+}
+/* reference for list*/
+/*li{
+	list-style-type: none;
+	line-height: 30px;
+	padding: 50px;
+}
+*/#bannerDiv {
+	display: flex;
+
+}
+#explanatianP {
+	color: black;
+	font-size: 25px;
+	font-family: Merriweather;
+	font-weight: lighter;
+
+}
+#cardsDiv {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding: 100px;
+}
+.cards {
+	max-width: 258px;
+}
+#bannerDiv > h1, h3{
+	position: absolute;
+}
+#rectangle1 {
+	height: 319px;
+	width: 468px;
+	position: absolute;
+	top: 420px;
+	left: 820px;
+
+}
+#strtTraveling{
+	color: white;
+	font-size: 25px;
+	font-family: Montserrat Subrayada;
+	font-weight: bold;
+	top: 841px;
+	left: 1011px;
+	z-index: 1;
+}
+#rectangle2{
+	width: 300px;
+	height: 63px; 
+	position: absolute;
+	left: 988px;
+	top: 826px;
+}
