@@ -101,3 +101,19 @@ a{
 	left: 988px;
 	top: 826px;
 }
+#rectangle3{
+	width: 437px;
+	height: 82px;
+	position: absolute;
+	top: 1214px;
+	left: 893px;
+}
+h4 {
+	font-weight: bold;
+	font-family: Montserrat Subrayada;
+	font-size: 30px;
+	text-align: left;
+	position: absolute;
+	top: 1013px;
+	left: 31px;
+}
